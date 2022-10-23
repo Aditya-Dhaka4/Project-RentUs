@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>blue.jpg</file>
+        <file>house.jpeg</file>
+        <file>iconn.png</file>
+        <file>classic-house-flower-garden-751996.jpg</file>
+        <file>download.jpeg</file>
+    </qresource>
+</RCC>
